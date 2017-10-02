@@ -1,0 +1,29 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+    background-color: midnightblue;
+    color: #E8FDFF;
+    font-style: italic;
+    font-size: 17px;
+    padding-left: 20px;
+}
+body {
+    background-color: lightgrey;
+}
+
+main {
+    background-color: white;
+    padding: 25px;
+}
+main {
+    width: 450px;
+    margin: 0 auto;
+}
+.post{
+    margin-bottom: 48px;
+}
+.post .user-info img {
+    border-radius: 50%;
+}
